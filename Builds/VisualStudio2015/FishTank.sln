@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{2ACDE012-F0A2-53E6-CA27-D4CE013A3D12}") = "FishTank", "FishTank.vcxproj", "{BC85E2EC-33DA-3796-E0E7-A54452C3DAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC85E2EC-33DA-3796-E0E7-A54452C3DAD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC85E2EC-33DA-3796-E0E7-A54452C3DAD1}.Debug|Win32.Build.0 = Debug|Win32
+		{BC85E2EC-33DA-3796-E0E7-A54452C3DAD1}.Release|Win32.ActiveCfg = Release|Win32
+		{BC85E2EC-33DA-3796-E0E7-A54452C3DAD1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

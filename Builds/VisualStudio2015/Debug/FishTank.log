@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  PluginProcessor.cpp
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(22): warning C4189: 'sampRate': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(21): warning C4101: 'aExp': unreferenced local variable
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(90): warning C4100: 'index': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(94): warning C4100: 'index': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(99): warning C4100: 'newName': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(99): warning C4100: 'index': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(104): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(104): warning C4100: 'sampleRate': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(143): warning C4189: 'test': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(159): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(176): warning C4189: 'sr': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(172): warning C4189: 'newVal': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(171): warning C4189: 'sample': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(183): warning C4189: 'testReadPointer': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(184): warning C4189: 'testValue': local variable is initialized but not referenced
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(205): warning C4100: 'destData': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(216): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\matthew\documents\programming\vst\fishtank\source\pluginprocessor.cpp(216): warning C4100: 'data': unreferenced formal parameter
+  FishTank.vcxproj -> C:\Users\Matthew\Documents\Programming\VST\FishTank\Builds\VisualStudio2015\..\..\Compiled\FishTank.dll
+  FishTank.vcxproj -> Debug\\FishTank.pdb (Full PDB)
+  C:\Users\Matthew\Documents\Programming\VST\FishTank\Compiled\FishTank.dll
+  1 File(s) copied
